@@ -1,0 +1,46 @@
+name: onschedule
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.3 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  animated_text_kit: ^4.2.2
+  google_fonts: ^4.0.3
+  page_route_animator: ^1.0.3
+  intl: ^0.17.0
+  book_my_seat: ^1.0.1
+  flutter_credit_card: ^3.0.6
+  flutter_svg: ^1.0.1
+  firebase_core: ^2.10.0
+  cloud_firestore: ^4.5.2
+  get: ^4.6.1
+  provider: ^6.0.5
+  flutter_riverpod: ^2.3.6
+  flutter_paypal: ^0.0.8
+  live_currency_rate: ^1.0.2
+  flutter_vonage: ^0.0.9
+  http: ^0.13.6
+
+dev_dependencies:
+  flutter_native_splash: ^2.2.19
+
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+   - images/
+   - assets/

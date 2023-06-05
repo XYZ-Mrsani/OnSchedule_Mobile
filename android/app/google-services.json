@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256634477922",
+    "project_id": "onschedule-735e7",
+    "storage_bucket": "onschedule-735e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256634477922:android:4650e6645f18eebea9203b",
+        "android_client_info": {
+          "package_name": "com.example.onschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256634477922-lvbj2bmrjkd1l69gpnuk1ois27ss87g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6PcVb7R9F_zv8ninu4FmQy7vHxApkMvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256634477922-lvbj2bmrjkd1l69gpnuk1ois27ss87g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
