@@ -1,10 +1,11 @@
-# onschedule
+# OnSchedule Mobile
 
-A new Flutter project.
+Bus Seat reservation Mobile Application for Passengers.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To start the project, download or clone the project and open it in VSCode or Android Studio, and run the 'dart pub get' in the terminal and Run the project.
+
 
 A few resources to get you started if this is your first Flutter project:
 
